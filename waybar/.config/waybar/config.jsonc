@@ -22,8 +22,8 @@
 "modules-left": [	
 	"hyprland/workspaces#rw",
 	"custom/separator#blank",
-	"tray",
 	"custom/separator#blank",
+	"tray",
 	"mpris"
 	],
     
