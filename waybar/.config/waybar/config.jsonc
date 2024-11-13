@@ -35,6 +35,7 @@
 	"group/motherboard",
 	"battery",
  	"pulseaudio",
+ 	"pulseaudio#microphone",
 	"network",
 	"bluetooth",
 	"clock#3",
