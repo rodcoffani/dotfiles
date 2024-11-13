@@ -15,5 +15,6 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 source <(fzf --zsh)
-
+source /usr/share/nvm/init-nvm.sh
+source /usr/share/doc/find-the-command/ftc.zsh noupdate noprompt info
 
