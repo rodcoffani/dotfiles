@@ -157,6 +157,8 @@
 		"title<.*youtube.*>": " ",
 		"title<.*amazon.*>": " ",
 		"title<.*reddit.*>": " ",
+		"title<.*github.*>": " ",
+		"title<.*stackoverflow.*>": " ",
 		"title<.*Picture-in-Picture.*>": " ",
 		"class<firefox|org.mozilla.firefox|librewolf|floorp|mercury-browser>": " ",
 		"class<kitty|konsole>": " ",
@@ -183,8 +185,9 @@
 		"class<zen-alpha>": "󰰷 ", //Zen Browser
 		"class<waterfox|waterfox-bin>": " ",
 		"class<microsoft-edge>": " ",
-		"class<vlc>": "󰕼 "
-		}   
+		"class<vlc>": "󰕼 ",
+		"class<dev.zed.Zed>": " "
+		}
 	},
 
 }
