@@ -1,7 +1,6 @@
 //* ---- 💫 https://github.com/JaKooLit 💫 ---- *//
 /* Waybar Modules */
 
-/* NOTE: hyprland-workspaces, Custom Modules & Groups on a separate files */
 
 {
 "temperature": {
@@ -171,7 +170,8 @@
 "disk": {
 	"interval": 30,
 	//"format": "󰋊",
-	"path": "/",
+	//"path": "/",
+	"path": "/home",
 	//"format-alt-click": "click",
 	"format": "{percentage_used}% 󰋊",
 	//"tooltip": true,
