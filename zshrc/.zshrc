@@ -25,3 +25,6 @@ source $HOME/.zsh_mgc
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+# Created by `pipx` on 2026-01-27 09:59:21
+export PATH="$PATH:/home/rcoff/.local/bin"
